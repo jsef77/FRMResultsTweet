@@ -2,7 +2,7 @@
 Auto-format results for FRM weekly results tweet
 
 
-BEFORE USE! IMPORTANT!:
+# BEFORE USE! IMPORTANT!:
 
 make sure that the image you want tweeted is saved in /img/, formatted as:
 dd.mm.yy
@@ -11,7 +11,7 @@ dd.mm.yy
 and matches the date of the tournament. This is important to get the right image tweeted out.
 
 
-How to Use:
+# How to Use:
 
 1} Run main.py
 
