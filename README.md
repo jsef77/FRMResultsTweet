@@ -4,7 +4,7 @@ Auto-format results for FRM weekly results tweet
 
 # BEFORE USE! IMPORTANT!:
 
-make sure that the image you want tweeted is saved in /img/, formatted as:
+make sure that the image you want tweeted is saved in a folder named /img/, formatted as:
 dd.mm.yy
 !CURRENTLY REQUIRES A .PNG FILE
 
