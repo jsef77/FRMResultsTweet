@@ -10,10 +10,12 @@ dd.mm.yy
 
 and matches the date of the tournament. This is important to get the right image tweeted out.
 
+You'll need to input the keys in auth.py from twitter dev api 
+
 
 # How to Use:
 
-1} Run main.py
+1) Run main.py
 
 2) Enter the results. If there are no characters entered, it should automatically insert mains.
    Twitter @'s should also be added automatically
