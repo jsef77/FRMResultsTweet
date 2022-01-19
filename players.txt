@@ -1,0 +1,4 @@
+{
+    "tag" : ["@Twitter", "Character"],
+    "tag2"  : ["@Twitter2", "Character2"],
+}
