@@ -2,8 +2,6 @@ from tweet import *
 from buttonfunc import *
 import tkinter as tk
 
-debug = False    
-
 window = tk.Tk()
 
 entryDate = tk.Entry()
