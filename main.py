@@ -84,7 +84,7 @@ def updateCall():
     
     entryUpdate()
 
-    updateTweet(date, p1, p1Char, p2, p2Char, p3, p3Char, p4, p4Char, artist, debug)
+    updateTweet(date, p1, p1Char, p2, p2Char, p3, p3Char, p4, p4Char, artist)
 
     
 
@@ -92,7 +92,7 @@ def tweetCall():
 
     entryUpdate()
 
-    preTweetSend(date, p1, p1Char, p2, p2Char, p3, p3Char, p4, p4Char, artist, debug)
+    preTweetSend(date, p1, p1Char, p2, p2Char, p3, p3Char, p4, p4Char, artist)
 
     
 #Buttons
